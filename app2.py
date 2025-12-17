@@ -16,8 +16,8 @@ Expected Results:
 import streamlit as st
 import pandas as pd
 import numpy as np
-# import plotly.express as px
-# import plotly.graph_objects as go
+import plotly.express as px
+import plotly.graph_objects as go
 import re
 from wordcloud import WordCloud
 import matplotlib.pyplot as plt
