@@ -1,0 +1,14 @@
+# Tokopedia Sentiment Analysis - Requirements
+# Install dengan: pip install -r requirements.txt
+
+streamlit==1.29.0
+pandas==2.1.3
+numpy==1.24.3
+plotly==5.18.0
+scikit-learn==1.3.2
+nltk==3.8.1
+Sastrawi==1.0.1
+wordcloud==1.9.3
+matplotlib==3.8.2
+seaborn==0.13.0
+scipy==1.11.4
