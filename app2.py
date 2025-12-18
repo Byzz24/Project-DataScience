@@ -1166,7 +1166,7 @@ def main():
         
         ### 👥 Team
         
-        Made with ❤️ by Data Science Team
+        Made with ❤️ by Bayu & Yudha & Alfonsus
         
         ### 📞 Contact
         
@@ -1174,10 +1174,11 @@ def main():
         
         ---
         
-        © 2024 Tokopedia Sentiment Analysis. All Rights Reserved.
+        © 2025 Tokopedia Sentiment Analysis. All Rights Reserved.
         """)
 
 if __name__ == "__main__":
     main()
+
 
 
