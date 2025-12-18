@@ -1166,7 +1166,9 @@ def main():
         
         ### 👥 Team
         
-        Made with ❤️ by Bayu & Yudha & Alfonsus
+        - Bayu Java Trenggana
+        - A.A.N. Dharma Yudha 
+        - Alfonsus Sitanggang
         
         ### 📞 Contact
         
@@ -1179,6 +1181,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
 
